@@ -1,2 +1,3 @@
 #!/bin/bash
-vim "data/daily/$(date +%F).txt"
+DERP_REMOTE="${DERP_REMOTE:-$1}"
+vim "data/$DERP_REMOTE/daily/$(date +%F).txt"

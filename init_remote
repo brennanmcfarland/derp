@@ -1,0 +1,4 @@
+#!/bin/bash
+rclone mkdir $1:derp
+mkdir data/$1/daily
+mkdir data/$1/pages
