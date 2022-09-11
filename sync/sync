@@ -1,3 +1,4 @@
 #!/bin/bash
 DERP_REMOTE="${DERP_REMOTE:-$1}"
 rclone copy ./data/$DERP_REMOTE $DERP_REMOTE:/derp
+rclone copy $DERP_REMOTE:/derp ./data/$DERP_REMOTE

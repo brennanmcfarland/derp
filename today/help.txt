@@ -1,0 +1,3 @@
+Create/open daily notes for the given remote or the default if none is specified
+Usage:
+	derp today [optional-remote]

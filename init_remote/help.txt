@@ -1,0 +1,4 @@
+Initialize a remote for usage with derp.
+The remote must be already added in rclone.  This just makes sure the right directory structure is in place both on local and remote.
+Usage:
+	derp init_remote [remote-name]

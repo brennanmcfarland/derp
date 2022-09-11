@@ -1,0 +1,4 @@
+Create or edit a note page
+Remote can be optionally supplied to override default
+Usage:
+	derp page [optional-remote-name] [page-name]

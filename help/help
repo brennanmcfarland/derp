@@ -1,0 +1,2 @@
+#!/bin/bash
+cat $DERP_ROOT/$1/help.txt

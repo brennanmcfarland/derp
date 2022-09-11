@@ -1,0 +1,3 @@
+Sync files with the given remote or with the default remote if none is given
+Usage:
+derp sync [optional-remote]

@@ -1,0 +1,3 @@
+Create/open daily notes from previous days for the given remote or the default if none is specified
+Usage:
+	derp days-ago [optional-remote] [number of days ago]
